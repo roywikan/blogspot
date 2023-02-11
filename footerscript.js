@@ -3,7 +3,7 @@
 <b:if cond='data:view.isPost'>
 <script>
 //<![CDATA[
-function downloadJSAtOnload(){var d=document.createElement("script");d.src="https://cdn.staticaly.com/gh/roywikan/blogspot/relatedarticles.min.js",document.body.appendChild(d)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
+function downloadJSAtOnload(){var d=document.createElement("script");d.src="https://cdn.staticaly.com/gh/roywikan/blogspot/main/relatedarticles.min.js",document.body.appendChild(d)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
 //]]>
 //<![CDATA[
 var topImg;
