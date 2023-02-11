@@ -15,8 +15,7 @@
 	//document.body.appendChild(a);
   
   //</script>  
-  
-  <script>  
+
 
 	var blogUrl = &quot;<data:blog.homepageUrl/>&quot;;
 	var link = &quot;https://www.google.com/ping?sitemap=&quot; + blogUrl + &quot;sitemap.xml&quot;;
@@ -29,5 +28,4 @@
     
     document.getElementById(&quot;targetLokasiCurrentYear&quot;).innerHTML = (new Date().getFullYear() &gt; 2010) ? new Date().getFullYear() : &quot;&quot;;
 
-  
-  </script>
+
